@@ -8,11 +8,11 @@ CineFlix -"Your Ticket to Movie Magic"
 
 CineFlix is a cutting-edge online movie booking platform built using the MERN stack. It offers a seamless and responsive web experience, catering to a global audience with multi-language support powered by i18Next. The application integrates Stripe for secure and efficient payment processing, ensuring a smooth checkout experience for users.
 
-Frontend: React
-Backend: Node.js, Express.js
-Database: MongoDB
-Payment Gateway: Stripe
-Internationalization: i18Next
+-Frontend: React
+-Backend: Node.js, Express.js
+-Database: MongoDB
+-Payment Gateway: Stripe
+-Internationalization: i18Next
 CineFlix combines modern web technologies with a user-friendly interface, enabling movie enthusiasts to easily discover, book, and enjoy their favorite films hassle-free.
 
 - Movies:- Holidate, The Princess Switch, Road Dahl's The Witches
