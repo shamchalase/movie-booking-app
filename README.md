@@ -38,7 +38,7 @@ Show Timings Page
 <img width="947" alt="showtimings" src="https://user-images.githubusercontent.com/63189207/101284617-3ddd1380-37e1-11eb-820c-397012461391.PNG">
 
 Booking Page
-<img width="773" alt="bookingpage" src="https://user-images.githubusercontent.com/63189207/101284622-42093100-37e1-11eb-86a3-60b77823bdf5.PNG">
+<img width="973" alt="bookingpage" src="https://user-images.githubusercontent.com/63189207/101284622-42093100-37e1-11eb-86a3-60b77823bdf5.PNG">
 
 Payment Page
 <img width="910" alt="paymentform" src="https://user-images.githubusercontent.com/63189207/101284626-47ff1200-37e1-11eb-82a1-fe3f3c614270.PNG">
