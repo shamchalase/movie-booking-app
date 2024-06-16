@@ -6,9 +6,14 @@ CineFlix -"Your Ticket to Movie Magic"
 </p>
 
 
-The RED Cinemas is an online movie booking multi-language application created using MERN stack. It is a modern and responsive web application with complete stripe payment checkout solution.
+CineFlix is a cutting-edge online movie booking platform built using the MERN stack. It offers a seamless and responsive web experience, catering to a global audience with multi-language support powered by i18Next. The application integrates Stripe for secure and efficient payment processing, ensuring a smooth checkout experience for users.
 
-Showtimings are added for below three movies and you can either create new account or use below test account to book movies.
+Frontend: React
+Backend: Node.js, Express.js
+Database: MongoDB
+Payment Gateway: Stripe
+Internationalization: i18Next
+CineFlix combines modern web technologies with a user-friendly interface, enabling movie enthusiasts to easily discover, book, and enjoy their favorite films hassle-free.
 
 - Movies:- Holidate, The Princess Switch, Road Dahl's The Witches
 - Show Timings: 2024-06-16
