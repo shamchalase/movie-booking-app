@@ -1,5 +1,5 @@
 <h1 align="center">
-The RED Cinemas -A place to feel immersive movie experience
+CineFlix -"Your Ticket to Movie Magic"
 </h1>
 <p align="center">
  React, Nodejs, MongoDB, Expressjs, Stripe, i18Next
