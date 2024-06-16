@@ -50,36 +50,7 @@ Showtimings are added for below three movies and you can either create new accou
 - Add new screens/cinemas to the App
 - Add showtiming for movies
 
-# Coming Features!
 
-- Create an Admin dashboard for Admin
-- Create a My Account page for customers
-
-### ⚙️ Tech
-
-- [ReactJS](https://reactjs.org/) - A JavaScript library for building user interfaces.
-- [Stripe](https://stripe.com/en-se) - A complete payment solution.
-- [React Router](https://reactrouter.com/) - A tool that allows you to handle routes in a web app, using dynamic routing.
-- [i18Next](https://www.i18next.com/) - An internationalization-framework.
-- [EmailJS](https://www.emailjs.com/) - Send email from Javascript.
-- [React Icons](https://react-icons.github.io/react-icons/) - Popular icons for React projects.
-- [styled-components](https://styled-components.com/) - A Modern way to write CSS in Javascript.
-- [Node.js](https://nodejs.org/en/) - JavaScript runtime built on Chrome's V8 JavaScript engine.
-- [Express.js](https://expressjs.com/) - Back-end web application framework for Node.js.
-- [MongoDB](https://www.mongodb.com/) - MongoDB is a cross-platform document-oriented database program.
-
-### Installation
-
-App requires [Node.js](https://nodejs.org/) to run.
-
-Install the dependencies and devDependencies
-
-```sh
-$ git clone https://github.com/thasneemmanaf/the-red-cinemas-mern-project.git
-$ npm install
-$ npm start
-$ npm client-start
-```
 
 # Screenshots!
 
@@ -101,6 +72,4 @@ Payment Page
 Payment Confirmation Page
 <img width="813" alt="Payment-Success" src="https://user-images.githubusercontent.com/63189207/101287293-b054f000-37ef-11eb-8e25-3088d3fb48fc.PNG">
 
-## License
 
-MIT
