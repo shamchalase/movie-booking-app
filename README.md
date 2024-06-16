@@ -11,10 +11,8 @@ The RED Cinemas is an online movie booking multi-language application created us
 Showtimings are added for below three movies and you can either create new account or use below test account to book movies.
 
 - Movies:- Holidate, The Princess Switch, Road Dahl's The Witches
-- Show Timings: 2021-01-28
-- Test Account:- Email: janedoe@test.com , Password: janedoe123
+- Show Timings: 2024-06-16
 - Credit Card:- Number: 4242 4242 4242 4242 4242, Exp date: Any future date, CVV: Any number
-  [Click here to check out The RED Cinemas](https://theredcinemas.herokuapp.com/)
 
 
 
