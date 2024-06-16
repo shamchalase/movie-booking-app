@@ -10,12 +10,11 @@ CineFlix is a cutting-edge online movie booking platform built using the MERN st
 
 
 - Frontend: React
-- Show Timings: 2024-06-16
--Frontend: React
--Backend: Node.js, Express.js
--Database: MongoDB
--Payment Gateway: Stripe
--Internationalization: i18Next
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Payment Gateway: Stripe
+- Internationalization: i18Next
+
 CineFlix combines modern web technologies with a user-friendly interface, enabling movie enthusiasts to easily discover, book, and enjoy their favorite films hassle-free.
 
 - Movies:- Holidate, The Princess Switch, Road Dahl's The Witches
